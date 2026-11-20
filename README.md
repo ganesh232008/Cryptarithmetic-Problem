@@ -13,7 +13,9 @@ Input and Output
 Input: This algorithm will take three words.
 
 B A S E
+
 B A L L
+
 ----------
 G A M E S
 
@@ -37,7 +39,6 @@ Output − True if the sum of the value for word1 and word2 is same as word3 val
 Begin
 
 m := 1
-
 for each letter i from right to left of word1, do
 
 ch := word1[i]
