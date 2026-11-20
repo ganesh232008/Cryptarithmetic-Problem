@@ -7,8 +7,8 @@
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 
 # Procedure:
-# Input and Output
-# Input: This algorithm will take three words.
+Input and Output
+Input: This algorithm will take three words.
 B A S E
 B A L L
 ----------
@@ -26,9 +26,9 @@ Algorithm For this problem, we will define a node, which contains a letter and i
 
 isValid(nodeList, count, word1, word2, word3)
 
-# Input − A list of nodes, the number of elements in the node list and three words.
+Input − A list of nodes, the number of elements in the node list and three words.
 
-# Output − True if the sum of the value for word1 and word2 is same as word3 value.
+Output − True if the sum of the value for word1 and word2 is same as word3 value.
 
 Begin
 m := 1
