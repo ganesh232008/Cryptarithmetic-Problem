@@ -8,6 +8,7 @@ To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Py
 
 # Procedure:
 Input and Output
+
 Input: This algorithm will take three words.
 B A S E
 B A L L
